@@ -13,9 +13,9 @@ st.title("💬 Hinglish Support Bot Demo")
 st.caption(
     "🧠 This Hinglish Support Bot is a ready-to-integrate customer support assistant", 
     "fine-tuned for formal Hinglish conversations. It can be customized for any company’s FAQs", 
-    "policies, and support tone."\n\n
+    "policies, and support tone.\n\n"
     "🌐 Why Hinglish? A large segment of Indian users prefer a mix of Hindi and English — "
-    "making support more relatable, accessible, and human."\n\n
+    "making support more relatable, accessible, and human.\n\n"
     "✅ Try asking about orders, payments, returns, or delivery in Hinglish. "
     "You’ll see how smoothly it handles real-world support scenarios."
     "You can ask upto 5 queries in this demo"
@@ -62,5 +62,6 @@ if prompt := st.chat_input("Type your question here..."):
     # Display and store assistant response
     st.session_state.messages.append({"role": "assistant", "content": reply})
     st.chat_message("assistant").markdown(reply)
+
 
 
