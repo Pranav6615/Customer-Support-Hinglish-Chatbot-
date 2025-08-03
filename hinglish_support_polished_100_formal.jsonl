@@ -1,0 +1,100 @@
+{"messages": [{"role": "user", "content": "Payment kar diya hai lekin confirmation nahi aaya."}, {"role": "assistant", "content": "Aapka payment receive ho gaya hai. Confirmation email bheja gaya hai."}]}
+{"messages": [{"role": "user", "content": "Delivery delay ho rahi hai, reason batayein."}, {"role": "assistant", "content": "Hum asuvidha ke liye khed hai. Delivery delay shipment partner ke karan hai."}]}
+{"messages": [{"role": "user", "content": "Mujhe promo code apply karna nahi aa raha."}, {"role": "assistant", "content": "Promo code apply karne ke liye checkout page par option milega."}]}
+{"messages": [{"role": "user", "content": "Mujhe promo code apply karna nahi aa raha."}, {"role": "assistant", "content": "Promo code apply karne ke liye checkout page par option milega."}]}
+{"messages": [{"role": "user", "content": "Agar product defective ho to kya karna hoga?"}, {"role": "assistant", "content": "Agar product defective hai to kripya image bhejkar complaint raise karein."}]}
+{"messages": [{"role": "user", "content": "Order duplicate ho gaya hai, ek cancel karna hai."}, {"role": "assistant", "content": "Duplicate order cancel kar diya gaya hai. Aapko refund mil jaayega."}]}
+{"messages": [{"role": "user", "content": "Kya aap EMI options provide karte hain?"}, {"role": "assistant", "content": "Haan, hum selected banks ke liye EMI options provide karte hain."}]}
+{"messages": [{"role": "user", "content": "Order duplicate ho gaya hai, ek cancel karna hai."}, {"role": "assistant", "content": "Duplicate order cancel kar diya gaya hai. Aapko refund mil jaayega."}]}
+{"messages": [{"role": "user", "content": "Kya aap international shipping karte hain?"}, {"role": "assistant", "content": "Haan, hum selected countries mein delivery karte hain."}]}
+{"messages": [{"role": "user", "content": "Kya mujhe invoice mil sakta hai?"}, {"role": "assistant", "content": "Aapka invoice aapke email par bhej diya gaya hai."}]}
+{"messages": [{"role": "user", "content": "Mujhe address update karna hai order ke liye."}, {"role": "assistant", "content": "Aapka address update ho gaya hai. Naya address se delivery hogi."}]}
+{"messages": [{"role": "user", "content": "Mujhe address update karna hai order ke liye."}, {"role": "assistant", "content": "Aapka address update ho gaya hai. Naya address se delivery hogi."}]}
+{"messages": [{"role": "user", "content": "Kya mujhe invoice mil sakta hai?"}, {"role": "assistant", "content": "Aapka invoice aapke email par bhej diya gaya hai."}]}
+{"messages": [{"role": "user", "content": "Return policy ke baare mein batayein."}, {"role": "assistant", "content": "Hamari return policy 7 dinon ki hai. Product unused hona chahiye."}]}
+{"messages": [{"role": "user", "content": "Mujhe previous orders ka record chahiye."}, {"role": "assistant", "content": "Aapke previous orders 'My Orders' section mein available hain."}]}
+{"messages": [{"role": "user", "content": "Mujhe apne account details update karni hai."}, {"role": "assistant", "content": "Kripya login karke account section mein details update karein."}]}
+{"messages": [{"role": "user", "content": "Mujhe refund kab tak milega?"}, {"role": "assistant", "content": "Refund process mein 5–7 business days lagte hain."}]}
+{"messages": [{"role": "user", "content": "Mujhe apne account details update karni hai."}, {"role": "assistant", "content": "Kripya login karke account section mein details update karein."}]}
+{"messages": [{"role": "user", "content": "Mujhe product exchange karna hai."}, {"role": "assistant", "content": "Exchange initiate karne ke liye return form bharna hoga."}]}
+{"messages": [{"role": "user", "content": "Product ke saath warranty card nahi aaya."}, {"role": "assistant", "content": "Kripya warranty card ke liye support team se sampark karein."}]}
+{"messages": [{"role": "user", "content": "Kya mujhe invoice mil sakta hai?"}, {"role": "assistant", "content": "Aapka invoice aapke email par bhej diya gaya hai."}]}
+{"messages": [{"role": "user", "content": "Kya mera order dispatch ho gaya hai?"}, {"role": "assistant", "content": "Haan, aapka order dispatch ho chuka hai. Tracking link bhej rahe hain."}]}
+{"messages": [{"role": "user", "content": "Order cancel karna hai, process kya hai?"}, {"role": "assistant", "content": "Order cancel karne ke liye login karke 'My Orders' mein jaayein."}]}
+{"messages": [{"role": "user", "content": "Mujhe apne order ka status check karna hai."}, {"role": "assistant", "content": "Kripya apna order ID batayein, hum status turant check karenge."}]}
+{"messages": [{"role": "user", "content": "Aapke customer care ka contact number kya hai?"}, {"role": "assistant", "content": "Humara toll-free number hai 1800-123-4567."}]}
+{"messages": [{"role": "user", "content": "Payment kar diya hai lekin confirmation nahi aaya."}, {"role": "assistant", "content": "Aapka payment receive ho gaya hai. Confirmation email bheja gaya hai."}]}
+{"messages": [{"role": "user", "content": "Return policy ke baare mein batayein."}, {"role": "assistant", "content": "Hamari return policy 7 dinon ki hai. Product unused hona chahiye."}]}
+{"messages": [{"role": "user", "content": "Mujhe apne order ka status check karna hai."}, {"role": "assistant", "content": "Kripya apna order ID batayein, hum status turant check karenge."}]}
+{"messages": [{"role": "user", "content": "Order cancel karna hai, process kya hai?"}, {"role": "assistant", "content": "Order cancel karne ke liye login karke 'My Orders' mein jaayein."}]}
+{"messages": [{"role": "user", "content": "Product ke saath warranty card nahi aaya."}, {"role": "assistant", "content": "Kripya warranty card ke liye support team se sampark karein."}]}
+{"messages": [{"role": "user", "content": "Mujhe apne account details update karni hai."}, {"role": "assistant", "content": "Kripya login karke account section mein details update karein."}]}
+{"messages": [{"role": "user", "content": "Kya aap international shipping karte hain?"}, {"role": "assistant", "content": "Haan, hum selected countries mein delivery karte hain."}]}
+{"messages": [{"role": "user", "content": "Product ke saath warranty card nahi aaya."}, {"role": "assistant", "content": "Kripya warranty card ke liye support team se sampark karein."}]}
+{"messages": [{"role": "user", "content": "Mujhe promo code apply karna nahi aa raha."}, {"role": "assistant", "content": "Promo code apply karne ke liye checkout page par option milega."}]}
+{"messages": [{"role": "user", "content": "Mujhe product exchange karna hai."}, {"role": "assistant", "content": "Exchange initiate karne ke liye return form bharna hoga."}]}
+{"messages": [{"role": "user", "content": "Aapke customer care ka contact number kya hai?"}, {"role": "assistant", "content": "Humara toll-free number hai 1800-123-4567."}]}
+{"messages": [{"role": "user", "content": "Product ke saath warranty card nahi aaya."}, {"role": "assistant", "content": "Kripya warranty card ke liye support team se sampark karein."}]}
+{"messages": [{"role": "user", "content": "Kya aap international shipping karte hain?"}, {"role": "assistant", "content": "Haan, hum selected countries mein delivery karte hain."}]}
+{"messages": [{"role": "user", "content": "Mujhe address update karna hai order ke liye."}, {"role": "assistant", "content": "Aapka address update ho gaya hai. Naya address se delivery hogi."}]}
+{"messages": [{"role": "user", "content": "Payment kar diya hai lekin confirmation nahi aaya."}, {"role": "assistant", "content": "Aapka payment receive ho gaya hai. Confirmation email bheja gaya hai."}]}
+{"messages": [{"role": "user", "content": "Kya mera order dispatch ho gaya hai?"}, {"role": "assistant", "content": "Haan, aapka order dispatch ho chuka hai. Tracking link bhej rahe hain."}]}
+{"messages": [{"role": "user", "content": "Mujhe apne account details update karni hai."}, {"role": "assistant", "content": "Kripya login karke account section mein details update karein."}]}
+{"messages": [{"role": "user", "content": "Mujhe refund kab tak milega?"}, {"role": "assistant", "content": "Refund process mein 5–7 business days lagte hain."}]}
+{"messages": [{"role": "user", "content": "Mujhe previous orders ka record chahiye."}, {"role": "assistant", "content": "Aapke previous orders 'My Orders' section mein available hain."}]}
+{"messages": [{"role": "user", "content": "Mujhe previous orders ka record chahiye."}, {"role": "assistant", "content": "Aapke previous orders 'My Orders' section mein available hain."}]}
+{"messages": [{"role": "user", "content": "Mujhe address update karna hai order ke liye."}, {"role": "assistant", "content": "Aapka address update ho gaya hai. Naya address se delivery hogi."}]}
+{"messages": [{"role": "user", "content": "Return policy ke baare mein batayein."}, {"role": "assistant", "content": "Hamari return policy 7 dinon ki hai. Product unused hona chahiye."}]}
+{"messages": [{"role": "user", "content": "Kya aap gift wrapping provide karte hain?"}, {"role": "assistant", "content": "Haan, hum nominal charge par gift wrapping offer karte hain."}]}
+{"messages": [{"role": "user", "content": "Order duplicate ho gaya hai, ek cancel karna hai."}, {"role": "assistant", "content": "Duplicate order cancel kar diya gaya hai. Aapko refund mil jaayega."}]}
+{"messages": [{"role": "user", "content": "Mujhe previous orders ka record chahiye."}, {"role": "assistant", "content": "Aapke previous orders 'My Orders' section mein available hain."}]}
+{"messages": [{"role": "user", "content": "Order cancel karna hai, process kya hai?"}, {"role": "assistant", "content": "Order cancel karne ke liye login karke 'My Orders' mein jaayein."}]}
+{"messages": [{"role": "user", "content": "Agar product defective ho to kya karna hoga?"}, {"role": "assistant", "content": "Agar product defective hai to kripya image bhejkar complaint raise karein."}]}
+{"messages": [{"role": "user", "content": "Mujhe refund kab tak milega?"}, {"role": "assistant", "content": "Refund process mein 5–7 business days lagte hain."}]}
+{"messages": [{"role": "user", "content": "Agar product defective ho to kya karna hoga?"}, {"role": "assistant", "content": "Agar product defective hai to kripya image bhejkar complaint raise karein."}]}
+{"messages": [{"role": "user", "content": "Kya aap EMI options provide karte hain?"}, {"role": "assistant", "content": "Haan, hum selected banks ke liye EMI options provide karte hain."}]}
+{"messages": [{"role": "user", "content": "Return policy ke baare mein batayein."}, {"role": "assistant", "content": "Hamari return policy 7 dinon ki hai. Product unused hona chahiye."}]}
+{"messages": [{"role": "user", "content": "Mujhe refund kab tak milega?"}, {"role": "assistant", "content": "Refund process mein 5–7 business days lagte hain."}]}
+{"messages": [{"role": "user", "content": "Delivery delay ho rahi hai, reason batayein."}, {"role": "assistant", "content": "Hum asuvidha ke liye khed hai. Delivery delay shipment partner ke karan hai."}]}
+{"messages": [{"role": "user", "content": "Order duplicate ho gaya hai, ek cancel karna hai."}, {"role": "assistant", "content": "Duplicate order cancel kar diya gaya hai. Aapko refund mil jaayega."}]}
+{"messages": [{"role": "user", "content": "Mujhe promo code apply karna nahi aa raha."}, {"role": "assistant", "content": "Promo code apply karne ke liye checkout page par option milega."}]}
+{"messages": [{"role": "user", "content": "Kya aap international shipping karte hain?"}, {"role": "assistant", "content": "Haan, hum selected countries mein delivery karte hain."}]}
+{"messages": [{"role": "user", "content": "Mujhe promo code apply karna nahi aa raha."}, {"role": "assistant", "content": "Promo code apply karne ke liye checkout page par option milega."}]}
+{"messages": [{"role": "user", "content": "Delivery delay ho rahi hai, reason batayein."}, {"role": "assistant", "content": "Hum asuvidha ke liye khed hai. Delivery delay shipment partner ke karan hai."}]}
+{"messages": [{"role": "user", "content": "Order cancel karna hai, process kya hai?"}, {"role": "assistant", "content": "Order cancel karne ke liye login karke 'My Orders' mein jaayein."}]}
+{"messages": [{"role": "user", "content": "Mujhe apne order ka status check karna hai."}, {"role": "assistant", "content": "Kripya apna order ID batayein, hum status turant check karenge."}]}
+{"messages": [{"role": "user", "content": "Mujhe apne order ka status check karna hai."}, {"role": "assistant", "content": "Kripya apna order ID batayein, hum status turant check karenge."}]}
+{"messages": [{"role": "user", "content": "Kya mujhe invoice mil sakta hai?"}, {"role": "assistant", "content": "Aapka invoice aapke email par bhej diya gaya hai."}]}
+{"messages": [{"role": "user", "content": "Mujhe apne account details update karni hai."}, {"role": "assistant", "content": "Kripya login karke account section mein details update karein."}]}
+{"messages": [{"role": "user", "content": "Aapke customer care ka contact number kya hai?"}, {"role": "assistant", "content": "Humara toll-free number hai 1800-123-4567."}]}
+{"messages": [{"role": "user", "content": "Kya mera order dispatch ho gaya hai?"}, {"role": "assistant", "content": "Haan, aapka order dispatch ho chuka hai. Tracking link bhej rahe hain."}]}
+{"messages": [{"role": "user", "content": "Kya mera order dispatch ho gaya hai?"}, {"role": "assistant", "content": "Haan, aapka order dispatch ho chuka hai. Tracking link bhej rahe hain."}]}
+{"messages": [{"role": "user", "content": "Kya aap gift wrapping provide karte hain?"}, {"role": "assistant", "content": "Haan, hum nominal charge par gift wrapping offer karte hain."}]}
+{"messages": [{"role": "user", "content": "Return policy ke baare mein batayein."}, {"role": "assistant", "content": "Hamari return policy 7 dinon ki hai. Product unused hona chahiye."}]}
+{"messages": [{"role": "user", "content": "Payment kar diya hai lekin confirmation nahi aaya."}, {"role": "assistant", "content": "Aapka payment receive ho gaya hai. Confirmation email bheja gaya hai."}]}
+{"messages": [{"role": "user", "content": "Agar product defective ho to kya karna hoga?"}, {"role": "assistant", "content": "Agar product defective hai to kripya image bhejkar complaint raise karein."}]}
+{"messages": [{"role": "user", "content": "Mujhe refund kab tak milega?"}, {"role": "assistant", "content": "Refund process mein 5–7 business days lagte hain."}]}
+{"messages": [{"role": "user", "content": "Kya aap gift wrapping provide karte hain?"}, {"role": "assistant", "content": "Haan, hum nominal charge par gift wrapping offer karte hain."}]}
+{"messages": [{"role": "user", "content": "Payment kar diya hai lekin confirmation nahi aaya."}, {"role": "assistant", "content": "Aapka payment receive ho gaya hai. Confirmation email bheja gaya hai."}]}
+{"messages": [{"role": "user", "content": "Kya mera order dispatch ho gaya hai?"}, {"role": "assistant", "content": "Haan, aapka order dispatch ho chuka hai. Tracking link bhej rahe hain."}]}
+{"messages": [{"role": "user", "content": "Product ke saath warranty card nahi aaya."}, {"role": "assistant", "content": "Kripya warranty card ke liye support team se sampark karein."}]}
+{"messages": [{"role": "user", "content": "Mujhe product exchange karna hai."}, {"role": "assistant", "content": "Exchange initiate karne ke liye return form bharna hoga."}]}
+{"messages": [{"role": "user", "content": "Agar product defective ho to kya karna hoga?"}, {"role": "assistant", "content": "Agar product defective hai to kripya image bhejkar complaint raise karein."}]}
+{"messages": [{"role": "user", "content": "Kya aap gift wrapping provide karte hain?"}, {"role": "assistant", "content": "Haan, hum nominal charge par gift wrapping offer karte hain."}]}
+{"messages": [{"role": "user", "content": "Delivery delay ho rahi hai, reason batayein."}, {"role": "assistant", "content": "Hum asuvidha ke liye khed hai. Delivery delay shipment partner ke karan hai."}]}
+{"messages": [{"role": "user", "content": "Mujhe product exchange karna hai."}, {"role": "assistant", "content": "Exchange initiate karne ke liye return form bharna hoga."}]}
+{"messages": [{"role": "user", "content": "Aapke customer care ka contact number kya hai?"}, {"role": "assistant", "content": "Humara toll-free number hai 1800-123-4567."}]}
+{"messages": [{"role": "user", "content": "Order cancel karna hai, process kya hai?"}, {"role": "assistant", "content": "Order cancel karne ke liye login karke 'My Orders' mein jaayein."}]}
+{"messages": [{"role": "user", "content": "Kya mujhe invoice mil sakta hai?"}, {"role": "assistant", "content": "Aapka invoice aapke email par bhej diya gaya hai."}]}
+{"messages": [{"role": "user", "content": "Mujhe address update karna hai order ke liye."}, {"role": "assistant", "content": "Aapka address update ho gaya hai. Naya address se delivery hogi."}]}
+{"messages": [{"role": "user", "content": "Kya aap gift wrapping provide karte hain?"}, {"role": "assistant", "content": "Haan, hum nominal charge par gift wrapping offer karte hain."}]}
+{"messages": [{"role": "user", "content": "Aapke customer care ka contact number kya hai?"}, {"role": "assistant", "content": "Humara toll-free number hai 1800-123-4567."}]}
+{"messages": [{"role": "user", "content": "Order duplicate ho gaya hai, ek cancel karna hai."}, {"role": "assistant", "content": "Duplicate order cancel kar diya gaya hai. Aapko refund mil jaayega."}]}
+{"messages": [{"role": "user", "content": "Mujhe apne order ka status check karna hai."}, {"role": "assistant", "content": "Kripya apna order ID batayein, hum status turant check karenge."}]}
+{"messages": [{"role": "user", "content": "Mujhe previous orders ka record chahiye."}, {"role": "assistant", "content": "Aapke previous orders 'My Orders' section mein available hain."}]}
+{"messages": [{"role": "user", "content": "Delivery delay ho rahi hai, reason batayein."}, {"role": "assistant", "content": "Hum asuvidha ke liye khed hai. Delivery delay shipment partner ke karan hai."}]}
+{"messages": [{"role": "user", "content": "Kya aap EMI options provide karte hain?"}, {"role": "assistant", "content": "Haan, hum selected banks ke liye EMI options provide karte hain."}]}
+{"messages": [{"role": "user", "content": "Mujhe product exchange karna hai."}, {"role": "assistant", "content": "Exchange initiate karne ke liye return form bharna hoga."}]}
+{"messages": [{"role": "user", "content": "Kya aap international shipping karte hain?"}, {"role": "assistant", "content": "Haan, hum selected countries mein delivery karte hain."}]}
+{"messages": [{"role": "user", "content": "Kya aap EMI options provide karte hain?"}, {"role": "assistant", "content": "Haan, hum selected banks ke liye EMI options provide karte hain."}]}
+{"messages": [{"role": "user", "content": "Kya aap EMI options provide karte hain?"}, {"role": "assistant", "content": "Haan, hum selected banks ke liye EMI options provide karte hain."}]}
