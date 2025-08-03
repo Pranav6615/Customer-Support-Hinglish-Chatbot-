@@ -10,7 +10,18 @@ FINE_TUNED_MODEL = "ft:gpt-3.5-turbo-0125:personal::Bzmrn6Yp"
 # Streamlit UI setup
 st.set_page_config(page_title="Hinglish Support Bot", layout="centered")
 st.title("💬 Hinglish Support Bot Demo")
-st.caption("You can ask up to 5 questions in this demo.")
+st.caption(
+    "🧠 This Hinglish Support Bot is a ready-to-integrate customer support assistant, "
+    "fine-tuned for formal Hinglish conversations. It can be customized for any company’s FAQs, "
+    "policies, and support tone.\n\n"
+    "🌐 Why Hinglish? A large segment of Indian users prefer a mix of Hindi and English — "
+    "making support more relatable, accessible, and human.\n\n"
+    "✅ Try asking about orders, payments, returns, or delivery in Hinglish. "
+    "You’ll see how smoothly it handles real-world support scenarios."
+    "You can ask upto 5 queries in this demo"
+    "Example query to start => "Kya mera order dispatch ho gaya hai?" or "Kya aap EMI options provide karte hain?" "
+)
+
 
 # Initialize session state for chat history and query count
 if "messages" not in st.session_state:
@@ -51,3 +62,4 @@ if prompt := st.chat_input("Type your question here..."):
     # Display and store assistant response
     st.session_state.messages.append({"role": "assistant", "content": reply})
     st.chat_message("assistant").markdown(reply)
+
