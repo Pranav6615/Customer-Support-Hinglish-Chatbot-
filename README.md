@@ -8,10 +8,10 @@ A fine-tuned GPT-3.5-Turbo chatbot providing formal Hinglish customer support, b
 - Secure secrets via Streamlit Cloud
 
 ## 🔗 Live Demo
-[Add your Streamlit Cloud URL here]
-
+(https://hinglish-customer-support-chatbot.streamlit.app/)
 ## 🛠 Setup
 
 ```bash
 pip install -r requirements.txt
 streamlit run chatbot_ui.py
+
